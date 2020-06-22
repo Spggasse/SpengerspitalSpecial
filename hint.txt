@@ -1,4 +1,4 @@
-Gesamtcode an PaitentController im Geburtsdatum schicken. Tag:Lösung1 Monat:Lösung2 Jahr:Lösung3
+﻿Gesamtcode an PaitentController im Geburtsdatum schicken. Tag:Lösung1 Monat:Lösung2 Jahr:Lösung3
 
 1. Hints aus GIT - 2 Stellen _ _
 Wert für die Lösung aus 1: x x x x * (letzten 4 Stellen der 40-stelligen Commitid von Commit 692c5af) % 28
@@ -10,4 +10,4 @@ Wert für die Lösung aus 2: Dezimaldaten%12
 
 3. Intranet - 4 Stellen _ _ _ _
 Wenn vergessen, im Intranet suchen.
-Letzten 4 Stellen der Schul-IBAN + Anzahl der Wochenstunden der HBGM
+Letzten 4 Stellen der Schul-IBAN *2 + Anzahl der Wochenstunden der HBGM
